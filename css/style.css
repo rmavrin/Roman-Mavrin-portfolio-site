@@ -38,7 +38,7 @@ nav{
     line-height: 18px;
 }
 .navigation:hover{
-    color: #F95656;
+    color: #53BA82;
 }
 .img_12{
     display: flex;
@@ -67,11 +67,11 @@ nav{
     font-size: 36px;
     line-height: 45px;
     text-align: center;
-    color: #F95656;
+    color: #53BA82;
 }
 .back_img{
     border-radius: 100%;
-    border: 2px solid #F95656;
+    border: 2px solid #53BA82;
     margin: auto;
     width: 248px;
     height: 248px;
@@ -108,7 +108,7 @@ nav{
     max-width: 247px;
     width: 100%;
     padding: 4px;
-    border: 2px solid #F95656;
+    border: 2px solid #53BA82;
     border-radius: 20px;
     margin: 10px 10px;
 }
@@ -206,7 +206,7 @@ footer{
     line-height: 18px;
 }
 .navigation2:hover{
-    color: #F95656;
+    color: #53BA82;
 }
 @media screen and (max-width:770px){
     .stydia_content{
